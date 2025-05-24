@@ -1,9 +1,3 @@
-//
-//  QuizAppApp.swift
-//  QuizApp
-//
-//  Created by Hüseyin Ayağa on 24.05.2025.
-//
 
 import SwiftUI
 
