@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "question": "1071 Malazgirt Meydan Muharebesi'nde Bizans İmparatoru kimdi?",
+    "options": ["Justinianus", "Herakleios", "Romalos Diogenes", "I. Aleksios"],
+    "correctIndex": 2,
+    "timeLimit": 60
+  },
+  {
+    "id": 2,
+    "question": "Osmanlı Devleti'nin kurucusu kimdir?",
+    "options": ["Orhan Gazi", "Osman Gazi", "Yavuz Sultan Selim", "Fatih Sultan Mehmet"],
+    "correctIndex": 1,
+    "timeLimit": 50
+  },
+  {
+    "id": 3,
+    "question": "İstanbul hangi padişah döneminde fethedilmiştir?",
+    "options": ["II. Murat", "Yavuz Sultan Selim", "I. Süleyman", "II. Mehmet"],
+    "correctIndex": 3,
+    "timeLimit": 60
+  },
+  {
+    "id": 4,
+    "question": "Cumhuriyet Türkiye’sinin ilk Cumhurbaşkanı kimdir?",
+    "options": ["Celal Bayar", "İsmet İnönü", "Mustafa Kemal Atatürk", "Fevzi Çakmak"],
+    "correctIndex": 2,
+    "timeLimit": 45
+  },
+  {
+    "id": 5,
+    "question": "Lozan Antlaşması hangi yılda imzalanmıştır?",
+    "options": ["1921", "1922", "1923", "1924"],
+    "correctIndex": 2,
+    "timeLimit": 55
+  },
+  {
+    "id": 6,
+    "question": "I. Dünya Savaşı'nı başlatan olay nedir?",
+    "options": ["Versay Antlaşması", "Fransız İhtilali", "Sarajevo Suikastı", "Berlin Duvarı"],
+    "correctIndex": 2,
+    "timeLimit": 70
+  },
+  {
+    "id": 7,
+    "question": "Ankara, Türkiye'nin başkenti ne zaman olmuştur?",
+    "options": ["1920", "1921", "1922", "1923"],
+    "correctIndex": 3,
+    "timeLimit": 60
+  },
+  {
+    "id": 8,
+    "question": "Kurtuluş Savaşı hangi antlaşmayla resmen sona erdi?",
+    "options": ["Sevr", "Mudanya", "Lozan", "Ankara"],
+    "correctIndex": 2,
+    "timeLimit": 65
+  },
+  {
+    "id": 9,
+    "question": "Atatürk’ün doğum yılı nedir?",
+    "options": ["1881", "1882", "1880", "1883"],
+    "correctIndex": 0,
+    "timeLimit": 45
+  },
+  {
+    "id": 10,
+    "question": "Mondros Ateşkes Antlaşması hangi savaşın sonunda imzalanmıştır?",
+    "options": ["I. Dünya Savaşı", "II. Dünya Savaşı", "Kurtuluş Savaşı", "Trablusgarp Savaşı"],
+    "correctIndex": 0,
+    "timeLimit": 50
+  },
+  {
+    "id": 11,
+    "question": "Tanzimat Fermanı ne zaman ilan edilmiştir?",
+    "options": ["1839", "1856", "1876", "1908"],
+    "correctIndex": 0,
+    "timeLimit": 60
+  },
+  {
+    "id": 12,
+    "question": "Osmanlı Devleti ne zaman sona erdi?",
+    "options": ["1920", "1922", "1923", "1924"],
+    "correctIndex": 1,
+    "timeLimit": 55
+  },
+  {
+    "id": 13,
+    "question": "II. Dünya Savaşı'nın başlama yılı nedir?",
+    "options": ["1938", "1939", "1940", "1941"],
+    "correctIndex": 1,
+    "timeLimit": 60
+  },
+  {
+    "id": 14,
+    "question": "Sakarya Meydan Muharebesi hangi yıl yapıldı?",
+    "options": ["1920", "1921", "1922", "1923"],
+    "correctIndex": 1,
+    "timeLimit": 60
+  },
+  {
+    "id": 15,
+    "question": "İlk Türk devleti hangisidir?",
+    "options": ["Hunlar", "Göktürkler", "Uygurlar", "Selçuklular"],
+    "correctIndex": 0,
+    "timeLimit": 65
+  },
+  {
+    "id": 16,
+    "question": "Türkiye NATO'ya ne zaman katıldı?",
+    "options": ["1949", "1952", "1955", "1960"],
+    "correctIndex": 1,
+    "timeLimit": 60
+  },
+  {
+    "id": 17,
+    "question": "Cumhuriyet ilanı hangi tarihte gerçekleşmiştir?",
+    "options": ["29 Ekim 1923", "23 Nisan 1920", "24 Temmuz 1923", "1 Kasım 1922"],
+    "correctIndex": 0,
+    "timeLimit": 45
+  },
+  {
+    "id": 18,
+    "question": "Osmanlı Devleti'nde ilk anayasa hangi yıl ilan edilmiştir?",
+    "options": ["1839", "1856", "1876", "1908"],
+    "correctIndex": 2,
+    "timeLimit": 70
+  },
+  {
+    "id": 19,
+    "question": "Berlin Duvarı ne zaman yıkıldı?",
+    "options": ["1987", "1988", "1989", "1990"],
+    "correctIndex": 2,
+    "timeLimit": 50
+  },
+  {
+    "id": 20,
+    "question": "Osmanlı Devleti'nde ilk halifelik hangi padişah döneminde Osmanlı'ya geçti?",
+    "options": ["Yavuz Sultan Selim", "Kanuni Sultan Süleyman", "II. Bayezid", "Fatih Sultan Mehmet"],
+    "correctIndex": 0,
+    "timeLimit": 75
+  },
+  {
+    "id": 21,
+    "question": "Yavuz Sultan Selim hangi savaşla halifeliği Osmanlı'ya kazandırdı?",
+    "options": ["Çaldıran", "Ridaniye", "Turnadağ", "Mercidabık"],
+    "correctIndex": 3,
+    "timeLimit": 70
+  },
+  {
+    "id": 22,
+    "question": "Türkiye'nin ilk kadın başbakanı kimdir?",
+    "options": ["Tansu Çiller", "Sabiha Gökçen", "Türkan Saylan", "Meral Akşener"],
+    "correctIndex": 0,
+    "timeLimit": 50
+  },
+  {
+    "id": 23,
+    "question": "İzmir İktisat Kongresi hangi yıl toplanmıştır?",
+    "options": ["1922", "1923", "1924", "1925"],
+    "correctIndex": 1,
+    "timeLimit": 55
+  },
+  {
+    "id": 24,
+    "question": "Osmanlı Devleti hangi savaşta fiilen sona erdi?",
+    "options": ["Sakarya", "Balkan", "I. Dünya Savaşı", "Kurtuluş Savaşı"],
+    "correctIndex": 2,
+    "timeLimit": 65
+  },
+  {
+    "id": 25,
+    "question": "Saltanat ne zaman kaldırıldı?",
+    "options": ["1 Kasım 1922", "29 Ekim 1923", "3 Mart 1924", "24 Temmuz 1923"],
+    "correctIndex": 0,
+    "timeLimit": 60
+  }
+]
